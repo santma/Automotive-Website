@@ -5,6 +5,7 @@ Full-Stack Web Development work-in-progress for a local Automotive shop using HT
 Home Page:
 - [x] Homepage main layout
 - [x] Navigation Bar 
+- [x] Responsive divs in Bootstrap
 - [x] Tire Search box with input buttons
 - [ ] Contact with a V-card Download
 - [x] Embedded Google Map
@@ -19,6 +20,7 @@ Other Pages:
 - [ ] Services page with informational videos embedded
 - [ ] hiring page with resumé / contact input. 
 - [ ] Blog page
+- [ ] Mobile site
 
 ## Back-End Tasks
 - [ ] Master Tire Fitment Guide database to search for tires based on make, model and year of car. 
