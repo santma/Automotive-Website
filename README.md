@@ -20,7 +20,7 @@ Other Pages:
 - [ ] hiring page with resumé / contact input. 
 - [ ] Blog page
 
-## BackEnd Tasks
+## Back-End Tasks
 - [ ] Master Tire Fitment Guide database to search for tires based on make, model and year of car. 
 - [ ] VIN decoder for clients to see car service history
 - [ ] Pages in php
