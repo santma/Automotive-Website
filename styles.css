@@ -1,0 +1,203 @@
+
+body {
+  background-color: #ccc9!important;
+}
+a:hover {
+  cursor: pointer;
+}
+div.home {
+  font-family: 'Tinos', serif;
+  max-width: 86%;
+}
+/*
+div {
+  border: 1px solid #000000;
+}
+*/
+#address {
+  font-family: 'Tinos', serif;
+  text-align:center;
+  padding-top:1rem;
+  font-size: 1.5rem;
+  margin-bottom:0rem;
+}
+#address:first-line {
+  font-size: 1.9rem;
+}
+address:hover {
+  color: #F40000;
+  text-decoration: none;
+  cursor:pointer;
+}
+address.address-collapse {
+  font-size: 4vw;
+  font-family: 'Tinos', serif;
+  text-align:center;
+}
+#phone {
+  font-family: 'Tinos', serif;
+  text-align:right;
+  font-size: 1.7rem;
+  color:black;
+}
+#phone:hover {
+  color: #F40000;
+  text-decoration: none;
+}
+a.phone-collapse {
+  font-family: 'Tinos', serif;
+  text-align:center;
+  font-size: 4vw;
+  color:black;
+}
+a.phone-collapse:hover{
+  color: #F40000;
+  text-decoration: none;
+}
+.logo {
+  width: 80%;
+  height: auto;
+  margin-bottom: 2rem;
+}
+.navbar-nav {
+  padding-top: 1rem;
+  font-family: 'Tinos', serif;
+  text-align:center;
+}
+.nav-link{
+  color: black;
+}
+.nav-link:hover{
+  color: #F40000;
+}
+.service-link:hover{
+  color: #F40000;
+}
+.navbar {
+  background-color: #fbfbfb;
+  /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+  margin-bottom: 0px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.nav-container{
+  background-color: #fbfbfb;
+  padding-right: 4em;
+  padding-left: 4em;
+  width: 100%;
+  margin-bottom: 0em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-bottom: 1px solid #000000;
+}
+a.navbar-brand {
+  margin-right: -3rem;
+  margin-left: 0rem;
+}
+img.img-thumbnail {
+  border-radius: 10px 10px 0px 0px;
+  border: 1px solid #000000;
+}
+div.main-options{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+div.row {
+  margin-right:0px;
+  margin-left:0px;
+}
+div.main {
+  border: 1px solid #000000;
+  text-align:center;
+  border-radius: 10px 10px 0px 0px;
+  background-color: #e3432d;
+}
+div.main-row {
+  height: 100%;
+  padding-left: 0px;
+  padding-right:0px;
+}
+div.services {
+  text-align: center;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #858bfa;
+  padding: 4px;
+  border-bottom: 1px solid #000000;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+}
+  /*
+div.second-row {
+  border-radius: 0px 0px 10px 10px;
+  background-color: #CCCC;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  padding-bottom: 20px;
+}
+
+div.first-row {
+  background-color: #CCCC;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+}*/
+div.tire-container{
+  background-color: #fbfbfb;
+  border-radius: 0px 0px 10px 10px;
+  padding: 7px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 30px;
+  height:85%;
+  /*height: 13em;*/
+}
+div.icons {
+  margin-top: 1em;
+}
+button.tire-button{
+  border-radius: 8px 8px 8px 8px;
+  background-color: white;
+  border: 1px solid #000000;
+  margin-bottom: 0.75em;
+}
+div.main-container {
+  width:100%;
+}
+input.tire-submit {
+  border-radius: 8px 8px 8px 8px;
+  background-color: #858bfa;
+  border: 1px solid #000000;
+}
+div.shop-tires {
+  margin-top: 1em;
+}
+div.home-row {
+  margin-bottom: 20px;
+}
+div.slider {
+  background-color:#858bfa;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 1.5em;
+}
+div.slider-img {
+  height: 240px;
+  width: 1020px;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+}
+div.footer {
+  background-color: #e3432d;
+  border-top: 1px solid #000000;
+  margin-top: 80px;
+}
+div.icons {
+  padding:0px;
+}
+div.logos {
+  padding-top: 10px;
+}
+h5 {
+  font-family: 'Tinos', serif;
+}
