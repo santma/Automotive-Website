@@ -1,7 +1,4 @@
 
-body {
-  background-color: #ccc9!important;
-}
 a:hover {
   cursor: pointer;
 }
@@ -18,11 +15,11 @@ div {
   font-family: 'Tinos', serif;
   text-align:center;
   padding-top:1rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom:0rem;
 }
 #address:first-line {
-  font-size: 1.9rem;
+  font-size: 1.5rem;
 }
 address:hover {
   color: #F40000;
@@ -55,9 +52,9 @@ a.phone-collapse:hover{
   text-decoration: none;
 }
 .logo {
-  width: 80%;
+  width: 85%;
   height: auto;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .navbar-nav {
   padding-top: 1rem;
@@ -66,6 +63,7 @@ a.phone-collapse:hover{
 }
 .nav-link{
   color: black;
+  padding: 0rem 0.5rem!important;
 }
 .nav-link:hover{
   color: #F40000;
@@ -93,9 +91,14 @@ a.navbar-brand {
   margin-right: -3rem;
   margin-left: 0rem;
 }
-img.img-thumbnail {
+img.service-icon {
   border-radius: 10px 10px 0px 0px;
   border: 1px solid #000000;
+}
+img.profile-pic{
+  border-radius: 10px;
+  border: 1px solid #000000;
+  margin: 20px 30px;
 }
 div.main-options{
   margin-left: 0px;
@@ -109,7 +112,7 @@ div.main {
   border: 1px solid #000000;
   text-align:center;
   border-radius: 10px 10px 0px 0px;
-  background-color: #e3432d;
+  background-color: #e3e4e6
 }
 div.main-row {
   height: 100%;
@@ -174,10 +177,11 @@ div.shop-tires {
   margin-top: 1em;
 }
 div.home-row {
-  margin-bottom: 20px;
+  margin-bottom: 5px;
+  margin-top: 5px;
 }
 div.slider {
-  background-color:#858bfa;
+  background-color: #000000;
   border-bottom: 1px solid #000000;
   margin-bottom: 1.5em;
 }
@@ -187,10 +191,11 @@ div.slider-img {
   border-right: 1px solid #000000;
   border-left: 1px solid #000000;
 }
-div.footer {
-  background-color: #e3432d;
-  border-top: 1px solid #000000;
+footer {
+  background-color: #000000;
   margin-top: 80px;
+  padding: 20px;
+  font-family: 'Tinos', serif;
 }
 div.icons {
   padding:0px;
@@ -200,4 +205,32 @@ div.logos {
 }
 h5 {
   font-family: 'Tinos', serif;
+}
+
+div.box {
+  margin: -5px;
+}
+div.about-container{
+  border-radius: 0px 0px 10px 10px;
+  padding: 7px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background-color: #fbfbfb;
+}
+div.profile{
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid #000000;
+  padding: 5px;
+  margin: 15px;
+  background-color: white;
+}
+div.profile-bio{
+  margin:35px;
+}
+div.menu{
+  border-right: 1px solid #000000;
+  align-items: baseline;
 }
